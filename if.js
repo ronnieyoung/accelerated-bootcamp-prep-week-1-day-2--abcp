@@ -5,7 +5,9 @@ if (pokemon == "Pikachu") {
 }
 
 function greaterthan10 (num){
-  if (num === 10)
+  if (num === 10) {
+    
+  }
 }
 
 
