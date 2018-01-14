@@ -16,11 +16,11 @@ array.push (element);
 }
 
 function accessElementInArray(array, index) {
-array.shift(element);
+
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
-
+array.shift(element);
 }
 
 function removeElementFromBeginningOfArray(array) {
